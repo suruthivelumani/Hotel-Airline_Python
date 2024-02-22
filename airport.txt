@@ -1,0 +1,35 @@
+1.  Indira Gandhi International Airport, Delhi
+    2 hrs 40 mins
+    Rs.4215
+
+2.  Chhatrapati Shivaji International Airport, Mumbai
+    1 hrs 20 mins
+    Rs.2549
+
+3.  Kempegowda International Airport, Bangalore
+    1 hrs 20 mins
+    Rs.2690
+
+4.  Chennai International Airport, Chennai
+    2 hrs 5 mins
+    Rs.3311
+
+5.  Netaji Subhas Chandra Bose International Airport, Kolkata
+    3 hrs 15 mins
+    Rs.8994
+
+6.  Rajiv Gandhi International Airport, Hyderabad
+    1 hrs 30 mins
+    Rs.2880
+
+7.  Cochin International Airport, Kochi
+    2 hrs 55 mins
+    Rs.5942
+
+8.  Sardar Vallabhbhai Patel International Airport, Ahmedabad
+    1 hrs 55 mins
+    Rs.3410
+
+9.  Lokpriya Gopinath Bordoloi International Airport, Guwahati
+    5 hrs 20 mins
+    Rs.10268
